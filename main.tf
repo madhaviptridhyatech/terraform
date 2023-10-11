@@ -5,6 +5,6 @@ provider "aws" {
 }
 
 resource "aws_s3_bucket" "example" {
-  bucket = "madhavi12345"
+  bucket = "madhavip12345"
  
 }
